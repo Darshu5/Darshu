@@ -12,8 +12,7 @@ package Basic;
 
 	//import commonUtils.ExcelUtil;
 	//import commonUtils.Javautil;
-	import CommonUtil.PropertyFileUtil;
-	import CommonUtil.WebDriverUtil;
+	
 
 	public class OrganizationsTest {
 		@Test
